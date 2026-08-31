@@ -14,6 +14,22 @@ From this folder:
 
 This copies `SKILL.md` to both `~/.claude/skills/audhd-maxxing/` and `~/.agents/skills/audhd-maxxing/`. Re-running it safely refreshes both copies.
 
+### Marketplace install
+
+**Claude Code**
+
+```text
+/plugin marketplace add Technofreakcritic/audhd-maxxing
+/plugin install audhd-maxxing@audhd-maxxing-marketplace
+```
+
+**Codex**
+
+```sh
+codex plugin marketplace add Technofreakcritic/audhd-maxxing --ref main
+codex plugin add audhd-maxxing@audhd-maxxing-marketplace
+```
+
 To install manually, create either destination directory and copy `SKILL.md` into it.
 
 ```sh
