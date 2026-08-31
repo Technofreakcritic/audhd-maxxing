@@ -1,0 +1,15 @@
+{
+  "name": "audhd-maxxing-marketplace",
+  "description": "An opt-in communication-format plugin for thorough help in manageable chunks.",
+  "owner": {
+    "name": "Arshaad Mohiadeen"
+  },
+  "plugins": [
+    {
+      "name": "audhd-maxxing",
+      "source": "./",
+      "description": "An opt-in communication skill for thorough, literal help without overwhelming walls of text.",
+      "version": "1.0.0"
+    }
+  ]
+}

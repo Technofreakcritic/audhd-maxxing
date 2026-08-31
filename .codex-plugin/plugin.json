@@ -1,0 +1,19 @@
+{
+  "name": "audhd-maxxing",
+  "version": "1.0.0",
+  "description": "An opt-in communication skill for thorough, literal help without overwhelming walls of text.",
+  "author": {
+    "name": "Arshaad Mohiadeen"
+  },
+  "repository": "https://github.com/Technofreakcritic/audhd-maxxing",
+  "skills": "./",
+  "interface": {
+    "displayName": "AuDHD Maxxing",
+    "shortDescription": "Thorough help in manageable chunks.",
+    "longDescription": "An opt-in skill that combines literal communication, chunked deep dives, and consent-based task coaching.",
+    "developerName": "Arshaad Mohiadeen",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Enable audhd-maxxing and help me begin a task."
+  }
+}

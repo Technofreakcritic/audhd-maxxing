@@ -1,0 +1,9 @@
+{
+  "name": "audhd-maxxing",
+  "description": "An opt-in communication skill for thorough, literal help without overwhelming walls of text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arshaad Mohiadeen"
+  },
+  "repository": "https://github.com/Technofreakcritic/audhd-maxxing"
+}

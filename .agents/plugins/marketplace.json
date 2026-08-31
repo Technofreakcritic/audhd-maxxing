@@ -1,0 +1,20 @@
+{
+  "name": "audhd-maxxing-marketplace",
+  "interface": {
+    "displayName": "AuDHD Maxxing"
+  },
+  "plugins": [
+    {
+      "name": "audhd-maxxing",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
